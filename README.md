@@ -58,18 +58,19 @@ endmodule
 ### RegisterNumber: 212223040075
 
 
-**RTL realization**
+### RTL realization
 
 ![image](https://github.com/jayavarsha23219/BOOLEAN_FUNCTION_MINIMIZATION/assets/150780319/4f0db038-f523-433b-9da7-f014fda8bcf9)
 
-**Truth Table**
+### Truth Table
 
 ![image](https://github.com/jayavarsha23219/BOOLEAN_FUNCTION_MINIMIZATION/assets/150780319/dbf7fc8d-4b9c-4813-bbd6-3a063dab816b)
 
-**Timing Diagram**
+### Timing Diagram
 
 ![image](https://github.com/jayavarsha23219/BOOLEAN_FUNCTION_MINIMIZATION/assets/150780319/e6d9c22e-d61a-478a-bc45-64f0ecffdaa4)
 
-**Result:**
+### Result:
+
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
